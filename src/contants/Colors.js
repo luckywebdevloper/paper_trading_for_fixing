@@ -1,0 +1,15 @@
+export default {
+  Default_GREEN: "#16A34A",
+  Default_TEXT: "#193766",
+  Default_BG: "#ffffff",
+  Default_Black: "#11181c",
+  Default_GREY: "#84878C",
+  Default_WHITE: "#FAFAFA",
+  LIGHT_GRAY: "#ededed",
+  FACEBOOK_BLUE: "#0865FE",
+  GOOGLE_BLUE: "#4486F6",
+  Badge_BG: "#FBE2E2",
+  TEXT_RED: "#E53E3E",
+  TEXT_BLUE: "#193766",
+  LIGHT_BLUE: "#DDE1E8",
+};
