@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "mai_trading_ui",
+    "slug": "mai_trading_ui",
+    "android": {
+      "package": "com.papertrading.com",
+      "versionCode": 1
+    },
+    "ios": {
+      "bundleIdentifier": "com.papertrading.com"
+    }
+  }
+}
